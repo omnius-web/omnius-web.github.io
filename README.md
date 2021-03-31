@@ -1,2 +1,6 @@
 # omnius-web.github.io
-test
+*OMNIUS*
+_OMNIUS_
+**OMNIUS**
+__OMNIUS__
+~~OMNIUS~~
