@@ -5,3 +5,9 @@ _OMNIUS_
 __OMNIUS__  
 ~~OMNIUS~~  
 > # First
+```javascript
+function test()
+{
+    console.log('test');
+}
+```
